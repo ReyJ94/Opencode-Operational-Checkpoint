@@ -10,7 +10,7 @@ continuity, decision state, active working context, and learned patterns
 without copying the full transcript.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ReyJ94%2FOpencode--Operational--Checkpoint-181717?logo=github)](https://github.com/ReyJ94/Opencode-Operational-Checkpoint)
-[![Release v0.1.0](https://img.shields.io/badge/release-v0.1.0-E6A34D?style=flat-square)](https://github.com/ReyJ94/Opencode-Operational-Checkpoint/releases/tag/v0.1.0)
+[![Release v0.1.1](https://img.shields.io/badge/release-v0.1.1-E6A34D?style=flat-square)](https://github.com/ReyJ94/Opencode-Operational-Checkpoint/releases/tag/v0.1.1)
 
 > **The short version:** preserve the working state that matters, replace the
 > compaction prompt with a structured checkpoint, and let the next assistant

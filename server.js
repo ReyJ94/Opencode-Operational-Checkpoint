@@ -21,4 +21,5 @@ export const CompactionPlugin = async () => ({
 export default {
   id: "opencode-compaction.server",
   server: CompactionPlugin,
+  setup: async () => {},
 }
